@@ -2,4 +2,4 @@
 
 spring boot + spring security + jwt + role based api access
 
-#paginanton - https://zetcode.com/springboot/pagination/
+#pagination - https://zetcode.com/springboot/pagination/
